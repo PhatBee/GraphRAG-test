@@ -1,0 +1,6 @@
+Reference: DDXPlus - A New Dataset For Automatic Medical Diagnosis
+
+Github: https://github.com/mila-iqia/ddxplus
+PaperLink: https://huggingface.co/papers/2502.04413
+Datasets: https://huggingface.co/datasets/aai530-group6/ddxplus
+
